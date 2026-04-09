@@ -277,7 +277,6 @@ looking_for:
 | | |
 |:--|:--|
 | 🧠 **ask me about** | distributed systems, full-stack architecture, why your microservices might be a bad idea |
-| ☕ **fuel** | chai > coffee (non-negotiable) |
 | 🎯 **hot take** | most apps don't need kubernetes. mine did though, so here we are |
 | 🌍 **will relocate to** | literally anywhere with good internet and decent food |
 | 💬 **philosophy** | if you can't explain what you built to a non-technical person, you don't fully understand it |
