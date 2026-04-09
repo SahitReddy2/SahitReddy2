@@ -19,15 +19,21 @@
 
 ### 👋 hey, i'm sahit
 
-CS undergrad at **UW-Madison** wrapping up in May 2026. I like building full-stack products, breaking down messy backend problems, and figuring out how to make things scale without falling apart.
-
-Previously shipped production code at **Convertive** (.NET / React / Azure) and **Lyntra** (Python / AWS). Currently working on a few side projects and looking for my next full-time role.
-
-I don't just write code — I care about *why* something gets built and whether it actually solves the problem.
+i'm finishing up my **B.S. in Computer Sciences** at **UW-Madison** (graduating May 2026) with minors in **Consulting** and **Entrepreneurship**. currently wrapping up school, building side projects, and looking for my next full-time role.
 
 ---
 
-### 🛠 tech i actually use
+### 🌱 a bit about me
+
+grew up in hyderabad, came to madison for CS, and haven't looked back. somewhere between algorithms class and my first internship i realized i'm the kind of person who'd rather stay up debugging a deployment issue than go to bed wondering why it broke.
+
+the consulting and entrepreneurship minors changed how i think about engineering — i don't just care about whether the code works, i care about who's using it and what decision it helps them make. i'd rather ship something, get feedback, and iterate than polish in isolation for months.
+
+i've gone from struggling through my first for-loop to designing microservices on AWS, containerizing with Docker, and building things like a [housing market platform](https://github.com/SahitReddy2) and an [AI compliance tool](https://github.com/SahitReddy2) from scratch. still a lot to learn, but that's the part i like most.
+
+---
+
+### 🛠 tech i work with
 
 <div align="center">
 
@@ -39,6 +45,7 @@ I don't just write code — I care about *why* something gets built and whether 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **frontend**
 
@@ -52,10 +59,12 @@ I don't just write code — I care about *why* something gets built and whether 
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **cloud & devops**
 
@@ -64,20 +73,21 @@ I don't just write code — I care about *why* something gets built and whether 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 </div>
 
 ---
 
-### 🔥 what i've been building
+### 🔥 stuff i've built
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**SiteSignal**](https://github.com/SahitReddy2) | Housing market intelligence platform — ingests MLS listings, permits & zoning data to rank investment sites | React, Python, PostgreSQL, Mapbox |
-| [**AI Compliance Auditor**](https://github.com/SahitReddy2) | Semantic search over regulatory docs using vector embeddings + RAG | FastAPI, Azure OpenAI, React, Docker |
-| [**Cloud Telemetry System**](https://github.com/SahitReddy2) | Containerized microservices w/ auto-scaling, real-time observability | Java, K8s, AWS, CloudWatch |
-| [**Flexera Win/Loss Dashboard**](https://github.com/SahitReddy2) | ML explainability heatmaps for sales pipeline — built with Flexera's team | .NET, React, TypeScript, Azure |
-| [**Meme Sentiment**](https://github.com/SahitReddy2/meme-sentiment) | Analyzes sentiment & tone in internet memes | Python, NLP |
+| [**SiteSignal**](https://github.com/SahitReddy2) | housing market platform — ingests MLS data, permits & zoning to rank investment sites for developers | React, TypeScript, Python, PostgreSQL, Mapbox |
+| [**AI Compliance Auditor**](https://github.com/SahitReddy2) | RAG-powered semantic search across 50+ regulatory document types, cut manual verification by 40% | FastAPI, Azure OpenAI, React, Docker |
+| [**Cloud Telemetry System**](https://github.com/SahitReddy2) | containerized Java microservices w/ K8s auto-scaling, real-time CloudWatch observability | Java, Docker, Kubernetes, AWS |
+| [**Flexera Win/Loss Dashboard**](https://github.com/SahitReddy2) | SHAP-style explainability heatmaps for sales pipeline — real capstone engagement with Flexera | .NET (C#), React, TypeScript, Azure, SQL |
+| [**Meme Sentiment**](https://github.com/SahitReddy2/meme-sentiment) | analyzes sentiment & emotional tone in internet memes | Python, NLP |
 
 ---
 
@@ -111,18 +121,3 @@ I don't just write code — I care about *why* something gets built and whether 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7b61ff,100:ff6b9d&height=120&section=footer" width="100%" />
-
-<!--
-**SahitReddy2/SahitReddy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
