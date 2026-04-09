@@ -5,22 +5,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,30:00e5ff,60:7b61ff,100:ff6b9d&height=250&section=header&text=SAHIT%20REDDY&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=engineer%20by%20degree%20·%20builder%20by%20instinct&descSize=17&descAlignY=58&descColor=8b949e" width="100%"/>
+<br/>
+
+# &nbsp; SAHIT &nbsp; REDDY &nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=2,3,12,15,20&section=header" width="60%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=%3E+cs+%40+uw-madison+·+class+of+2026;%3E+full-stack+·+distributed+systems+·+startups;%3E+open+to+swe+roles+starting+june+2026)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://linkedin.com/in/sahit-reddy2"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
-<a href="mailto:bhimireddy@wisc.edu"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>&nbsp;
-<a href="https://sahitreddy2.github.io"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" height="28"/></a>&nbsp;
-<a href="https://github.com/SahitReddy2"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+<samp>computer sciences · uw-madison · 2026</samp>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SahitReddy2&style=flat-square&color=00e5ff&label=profile+views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=58a6ff&center=true&vCenter=true&repeat=true&random=false&width=450&height=30&lines=full-stack+·+distributed+systems+·+startups;building+things+that+solve+real+problems;open+to+swe+roles+·+june+2026)](https://git.io/typing-svg)
+
+<br/>
+
+[`linkedin`](https://linkedin.com/in/sahit-reddy2) &nbsp;·&nbsp; [`email`](mailto:bhimireddy@wisc.edu) &nbsp;·&nbsp; [`portfolio`](https://sahitreddy2.github.io) &nbsp;·&nbsp; [`github`](https://github.com/SahitReddy2)
+
+<br/>
 
 </div>
 
@@ -295,8 +298,7 @@ open to **full-time SWE roles** starting June 2026. happy to relocate.
 
 <br/>
 
-<a href="mailto:bhimireddy@wisc.edu"><img src="https://img.shields.io/badge/email_me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/sahit-reddy2"><img src="https://img.shields.io/badge/connect-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bhimireddy@wisc.edu">`📧 bhimireddy@wisc.edu`</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/sahit-reddy2">`💼 linkedin`</a>
 
 <br/><br/>
 
@@ -308,8 +310,12 @@ open to **full-time SWE roles** starting June 2026. happy to relocate.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SahitReddy2&style=flat-square&color=00e5ff&label=views"/>
+<img src="https://komarev.com/ghpvc/?username=SahitReddy2&style=flat-square&color=58a6ff&label=views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6b9d,50:7b61ff,100:00e5ff&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=2,3,12,15,20&section=footer" width="40%"/>
+</div>
