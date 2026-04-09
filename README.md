@@ -9,7 +9,7 @@
 
 # &nbsp; SAHIT &nbsp; REDDY &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=2,3,12,15,20&section=header" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=2&section=header" width="50%"/>
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -52,7 +52,7 @@ const sahit = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -72,7 +72,7 @@ i've gone from struggling through my first for-loop to designing microservices o
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -122,7 +122,7 @@ i've gone from struggling through my first for-loop to designing microservices o
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -195,7 +195,7 @@ university capstone with Flexera. SHAP-style explainability heatmaps in React/TS
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -211,7 +211,7 @@ university capstone with Flexera. SHAP-style explainability heatmaps in React/TS
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SahitReddy2&theme=github-dark-blue&hide_border=true&background=00000000&ring=00E5FF&fire=FF6B9D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8888A0"/>
+<img src="https://streak-stats.demolab.com?user=SahitReddy2&theme=github-dark-blue&hide_border=true&background=00000000&ring=00E5FF&fire=FF6B9D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8888A0"/>
 
 <br/><br/>
 
@@ -225,13 +225,13 @@ university capstone with Flexera. SHAP-style explainability heatmaps in React/TS
 <summary align="center"><kbd>🏆 trophies</kbd></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SahitReddy2&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=SahitReddy2&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 </div>
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -265,7 +265,7 @@ looking_for:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -280,13 +280,14 @@ looking_for:
 | | |
 |:--|:--|
 | 🧠 **ask me about** | distributed systems, full-stack architecture, why your microservices might be a bad idea |
+| ☕ **fuel** | chai > coffee (non-negotiable) |
 | 🎯 **hot take** | most apps don't need kubernetes. mine did though, so here we are |
 | 🌍 **will relocate to** | literally anywhere with good internet and decent food |
 | 💬 **philosophy** | if you can't explain what you built to a non-technical person, you don't fully understand it |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=1&section=header" width="70%"/></div>
 
 <br/>
 
@@ -317,5 +318,5 @@ open to **full-time SWE roles** starting June 2026. happy to relocate.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=2,3,12,15,20&section=footer" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,15,20&height=2&section=footer" width="30%"/>
 </div>
